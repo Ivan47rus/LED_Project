@@ -1,0 +1,4 @@
+c:\users\кп\documents\visual studio 2010\Projects\Greeting\Greeting\bin\Debug\Greeting.exe
+c:\users\кп\documents\visual studio 2010\Projects\Greeting\Greeting\bin\Debug\Greeting.pdb
+c:\users\кп\documents\visual studio 2010\Projects\Greeting\Greeting\obj\x86\Debug\Greeting.exe
+c:\users\кп\documents\visual studio 2010\Projects\Greeting\Greeting\obj\x86\Debug\Greeting.pdb
